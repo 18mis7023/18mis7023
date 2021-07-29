@@ -5,6 +5,7 @@
 - 📫 How to reach me 
      ## Mail id : kodalihemanthchowdary4@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhee-bsp&layout=compact&hide=kotlin,typescript,hack" alt="Sudhee-bsp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18mis7023&count_private=true&show_icons=true" alt="Sudhee-bsp" /></p>
 
