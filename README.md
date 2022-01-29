@@ -54,9 +54,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact&hide=hack" alt="Kodali Hemanth Chowdary" /></p>
 </div>
 
-<div>
+<!-- <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18mis7023&count_private=true&show_icons=true" alt="Kodali Hemanth Chowdary" /></p>
-</div>
+</div> -->
+
+![Hemanth Chowdary GitHub stats](https://github-readme-stats.vercel.app/api?username=18mis7023&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true")
+
 
 <!-- 
 <div>
