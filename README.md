@@ -77,6 +77,11 @@
      <a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
      
 </p>
+
+<p align="center">
+     <img alt="Stars" src="https://img.shields.io/github/stars/18mis7023/18mis7023?style=flat-square&labelColor=343b41"/> 
+     <img alt="Forks" src="https://img.shields.io/github/forks/18mis7023/18mis7023?style=flat-square&labelColor=343b41"/>
+</p>
 <!---
 18mis7023/18mis7023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
