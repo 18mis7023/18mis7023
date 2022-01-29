@@ -45,19 +45,36 @@
   
      
 </p>
+<div>
+     <h3>Group</h3>
+     <img src="https://activity-graph.herokuapp.com/graph?username=18mis7023&theme=minimal"/>
+</div>
 
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact&hide=hack" alt="Kodali Hemanth Chowdary" /></p>
+</div>
 
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18mis7023&count_private=true&show_icons=true" alt="Kodali Hemanth Chowdary" /></p>
+</div>
 
+<!-- 
+<div>
+     <h3>Most Used Languages</h3>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023" />
+</div>
+ -->
+<div>
+     <h3>Streak Stats</h3>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=18mis7023" />
+</div>
 <h3>Where to find me</h3>
 <p>
      <a href="https://github.com/18mis7023" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <!--      <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
      <a href="https://www.linkedin.com/in/hemanth-chowdary-b97b6616b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
      <a href="mailto:hemanth.18mis7023@vitap.ac.in" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!--      https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white -->
+     <a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
      
 </p>
 <!---
