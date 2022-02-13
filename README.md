@@ -63,7 +63,7 @@
 </p>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact&hide=hack" alt="Kodali Hemanth Chowdary" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact" alt="Kodali Hemanth Chowdary" /></p>
 </div>
 
 <!-- <div>
