@@ -63,9 +63,9 @@
 </p>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact&hide=hack&langs_count=16&hide=jupyter%20notebook" alt="Kodali Hemanth Chowdary" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact&hide=hack&langs_count=16" alt="Kodali Hemanth Chowdary" /></p>
 </div>
-
+<!-- &hide=jupyter%20notebook -->
 <!-- <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18mis7023&count_private=true&show_icons=true" alt="Kodali Hemanth Chowdary" /></p>
 </div> -->
