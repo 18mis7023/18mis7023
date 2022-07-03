@@ -92,6 +92,8 @@
 
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/18mis7023/count.svg" />
+  
+<a href="https://app.daily.dev/hemanth3246"><img src="https://api.daily.dev/devcards/5fb98fc81f7441c283613a17ddb4aa08.png?r=abw" width="400" alt="Kodali Hemanth Chowdary's Dev Card"/></a>
 
 <h3>Where to find me</h3>
 <p>
@@ -113,4 +115,4 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<a href="https://app.daily.dev/hemanth3246"><img src="https://api.daily.dev/devcards/5fb98fc81f7441c283613a17ddb4aa08.png?r=abw" width="400" alt="Kodali Hemanth Chowdary's Dev Card"/></a>
+
