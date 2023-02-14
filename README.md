@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @18mis7023
-- 👀 I’m interested in Java Development,Backend Developer, Android App Development, Web Development... 
+- 👋 Hi, I’m @Kodali Hemanth CHowdary 
+- 👀 I’m interested in Java Development,Backend Developer, Android App Development, Web Development, Docker, Kubernetes ... 
 - 🌱 I’m currently Studying M-Tech Integrated Software Engineering
 - 💞️ I’m looking to collaborate on projects to develop any Java application or fullstack development projects
 - 📫 How to reach me 
