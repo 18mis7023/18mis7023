@@ -9,6 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodalihemanthchowdary/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemanthchowdarykodali.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodalihemanthchowdary4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/18mis7023)
 [![Profile Views](https://komarev.com/ghpvc/?username=18mis7023&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/18mis7023)
@@ -241,26 +242,34 @@ const hemanth = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📋 ClipNow</h3>
-      <sub>React.js • Firebase • PWA</sub><br/>
-      <sub>Personal live clipboard for sharing text/images across devices with real-time sync</sub>
+      <a href="https://github.com/18mis7023/ClipNow">
+        <h3>📋 ClipNow</h3>
+        <sub>React.js • Firebase • PWA</sub><br/>
+        <sub>Personal live clipboard for sharing text/images across devices with real-time sync</sub>
+      </a>
     </td>
     <td align="center" width="50%">
-      <h3>🏀 NCAA Basketball Prediction</h3>
-      <sub>Python • Sklearn • ML</sub><br/>
-      <sub>ML model predicting basketball outcomes using multiple algorithms</sub>
+      <a href="https://github.com/18mis7023/NCAA-Basket-Ball-Prediction">
+        <h3>🏀 NCAA Basketball Prediction</h3>
+        <sub>Python • Sklearn • ML</sub><br/>
+        <sub>ML model predicting basketball outcomes using multiple algorithms</sub>
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🎓 Alumni Portal</h3>
-      <sub>React.js • Java • Android • Firebase</sub><br/>
-      <sub>Web & Android app for VIT-AP University alumni interaction</sub>
+      <a href="https://github.com/18mis7023/Alumni-Portal">
+        <h3>🎓 Alumni Portal</h3>
+        <sub>React.js • Java • Android • Firebase</sub><br/>
+        <sub>Web & Android app for VIT-AP University alumni interaction</sub>
+      </a>
     </td>
     <td align="center" width="50%">
-      <h3>📚 VITAP BookHub</h3>
-      <sub>Kotlin • Android • Firebase</sub><br/>
-      <sub>Android app for accessing textbooks and journals for students</sub>
+      <a href="https://github.com/18mis7023/VITAP-BookHub">
+        <h3>📚 VITAP BookHub</h3>
+        <sub>Kotlin • Android • Firebase</sub><br/>
+        <sub>Android app for accessing textbooks and journals for students</sub>
+      </a>
     </td>
   </tr>
 </table>
@@ -273,10 +282,35 @@ const hemanth = {
   
 | Platform | Link |
 |:--------:|:----:|
+| 🌐 Portfolio | [hemanthchowdarykodali.netlify.app](https://hemanthchowdarykodali.netlify.app) |
 | 💼 LinkedIn | [Hemanth Chowdary](https://www.linkedin.com/in/kodalihemanthchowdary/) |
 | 📧 Email | [kodalihemanthchowdary4@gmail.com](mailto:kodalihemanthchowdary4@gmail.com) |
 | 🐙 GitHub | [@18mis7023](https://github.com/18mis7023) |
 
+</div>
+
+---
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18mis7023/18mis7023/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/18mis7023/18mis7023/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/18mis7023/18mis7023/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
+  <a href="https://wakatime.com/@18mis7023">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=18mis7023&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+  </a>
 </div>
 
 ---
