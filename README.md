@@ -1,118 +1,334 @@
-- 👋 Hi, I’m @Kodali Hemanth Chowdary 
-- 👀 I’m interested in Java Development,Backend Developer, Android App Development, Web Development, Docker, Kubernetes ... 
-- 🌱 I’m currently Studying M-Tech Integrated Software Engineering
-- 💞️ I’m looking to collaborate on projects to develop any Java application or fullstack development projects
-- 📫 How to reach me 
-     ## Mail id : kodalihemanthchowdary4@gmail.com
-<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
-<!--  <p>
-     <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="kodalihemanthchowdary" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kodalihemanthchowdary?trk=profile-badge">Hemanth Chowdary Kodali</a></div>
- </p>
- -->
- 
-<h3>Things I code with</h3>
-<p>
-<!--      for-the-badge,flat-square -->
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!--   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> -->
-<!--   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" /> -->
-<!--   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<!--   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" /> -->
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-430098?style=for-the-badge&logo=Firebase&logoColor=yellow" />
-  <img alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="Strapi" src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  <img alt="NetBeans" src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Git Terminal" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center">
   
-     
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hemanth%20Chowdary%20Kodali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<div>
-     <h1>Projects</h1>
-     
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Application+Security+Engineer+%40+Intel;Full+Stack+Developer+%7C+DevSecOps;ISC%C2%B2+CC+%7C+CompTIA+PenTest%2B;M-Tech+Software+Engineering+%7C+VIT;CTF+Enthusiast+%7C+Cloud+%26+Automation" alt="Typing SVG" /></a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodalihemanthchowdary/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemanthchowdarykodali.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodalihemanthchowdary4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/18mis7023)
+[![Profile Views](https://komarev.com/ghpvc/?username=18mis7023&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/18mis7023)
+
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=18mis7023&label=Profile%20views&color=0e75b6&style=flat" alt="18mis7023" /> </p>
 
-<!-- <p align="left"> 
-     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18mis7023" alt="18mis7023" /></a> 
-</p>
- -->
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const hemanth = {
+    pronouns: "He" | "Him",
+    currentRole: "Application Security Engineer @ Intel",
+    location: "Bangalore, Karnataka, India",
+    education: {
+        degree: "M-Tech Integrated Software Engineering",
+        university: "Vellore Institute of Technology",
+        cgpa: "9.21/10"
+    },
+    certifications: ["ISC² Certified in Cybersecurity (CC)", "CompTIA PenTest+"],
+    interests: ["AppSec Automation", "DevSecOps", "Cloud Security", "CTF Competitions"],
+    funFact: "I secured 3rd place in Intel CTF 2025! 🏆"
+};
+```
+
+- 🛡️ **Application Security Engineer at Intel** - Building secure CI/CD pipelines, AI-powered security tools, and automation
+- 🌟 **ISC² CC** & **CompTIA PenTest+** Certified Professional
+- 🏆 **3rd Place - Intel CTF 2025** | 4th Place - Intel CTF 2024
+- 🎓 **M-Tech Integrated Software Engineering** from VIT-AP with **9.21 CGPA**
+- 💬 Ask me about **Application Security, DevSecOps, React, Node.js, AWS, Docker, Kubernetes**
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td align="center" width="100%" colspan="2">
+      <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/><br/>
+      <b>🛡️ Application Security Engineer</b><br/>
+      <sub>Aug 2023 – Present • Bangalore, Karnataka</sub><br/><br/>
+      <sub>React.js • Node.js • Python • AWS • Docker • AI/ML • CloudBees</sub><br/>
+      <sub>🔐 Secure CI/CD Pipelines • 🤖 AI-powered Security Chatbot • ☁️ AWS Lambda & Secrets Management</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/><br/>
+      <b>Software Intern</b><br/>
+      <sub>Aug 2022 – May 2023</sub><br/>
+      <sub>Docker • Kubernetes • Jenkins • Python • Kibana</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/EthicalHat-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white" alt="EthicalHat"/><br/>
+      <b>QA Automation Engineer Intern</b><br/>
+      <sub>May 2021 – Aug 2021</sub><br/>
+      <sub>Python • Node.js • Cypress • Puppeteer</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏅 Certifications
 
 <p align="center">
-     <img src="https://activity-graph.herokuapp.com/graph?username=18mis7023&theme=minimal"/>
+  <img src="https://img.shields.io/badge/ISC%C2%B2-Certified_in_Cybersecurity_(CC)-00A651?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/>
+  <img src="https://img.shields.io/badge/CompTIA-PenTest+-C8202F?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA PenTest+"/>
 </p>
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact&hide=hack&langs_count=16" alt="Kodali Hemanth Chowdary" /></p>
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+<p align="left">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+<p align="left">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<p align="left">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+</details>
+
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br/>
+<p align="left">
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br/>
+<p align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img alt="AWS EKS" src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img alt="AWS ECR" src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img alt="CloudBees" src="https://img.shields.io/badge/CloudBees-1997B5?style=for-the-badge&logo=cloudbees&logoColor=white"/>
+  <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Technologies</b></summary>
+<br/>
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Sklearn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🛡️ Security & Pentesting</b></summary>
+<br/>
+<p align="left">
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img alt="SQLMap" src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img alt="Semgrep" src="https://img.shields.io/badge/Semgrep-4B11A8?style=for-the-badge&logo=semgrep&logoColor=white"/>
+  <img alt="Invicti" src="https://img.shields.io/badge/Invicti-0099FF?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img alt="Tenable" src="https://img.shields.io/badge/Tenable_WAS-00A1C1?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/18mis7023">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=18mis7023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/18mis7023">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
-<!-- &hide=jupyter%20notebook -->
-<!-- <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18mis7023&count_private=true&show_icons=true" alt="Kodali Hemanth Chowdary" /></p>
-</div> -->
-<br />
 
-![Hemanth Chowdary GitHub stats](https://github-readme-stats.vercel.app/api?username=18mis7023&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true")
+<br/>
 
-
-<!-- 
-<div>
-     <h3>Most Used Languages</h3>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18mis7023" />
-</div>
- -->
-<div>
-     <h3>Streak Stats</h3>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=18mis7023" />
+<div align="center">
+  <a href="https://github.com/18mis7023">
+    <img src="https://streak-stats.demolab.com?user=18mis7023&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
 </div>
 
-### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/18mis7023/count.svg" />
+<br/>
+
+<div align="center">
+  <a href="https://github.com/18mis7023">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=18mis7023&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  </a>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/18mis7023">
+    <img src="https://github-profile-trophy.vercel.app/?username=18mis7023&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/18mis7023/ClipNow">
+        <h3>📋 ClipNow</h3>
+        <sub>React.js • Firebase • PWA</sub><br/>
+        <sub>Personal live clipboard for sharing text/images across devices with real-time sync</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/18mis7023/NCAA-Basket-Ball-Prediction">
+        <h3>🏀 NCAA Basketball Prediction</h3>
+        <sub>Python • Sklearn • ML</sub><br/>
+        <sub>ML model predicting basketball outcomes using multiple algorithms</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/18mis7023/Alumni-Portal">
+        <h3>🎓 Alumni Portal</h3>
+        <sub>React.js • Java • Android • Firebase</sub><br/>
+        <sub>Web & Android app for VIT-AP University alumni interaction</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/18mis7023/VITAP-BookHub">
+        <h3>📚 VITAP BookHub</h3>
+        <sub>Kotlin • Android • Firebase</sub><br/>
+        <sub>Android app for accessing textbooks and journals for students</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
   
-<a href="https://app.daily.dev/hemanth3246"><img src="https://api.daily.dev/devcards/5fb98fc81f7441c283613a17ddb4aa08.png?r=abw" width="400" alt="Kodali Hemanth Chowdary's Dev Card"/></a>
+| Platform | Link |
+|:--------:|:----:|
+| 🌐 Portfolio | [hemanthchowdarykodali.netlify.app](https://hemanthchowdarykodali.netlify.app) |
+| 💼 LinkedIn | [Hemanth Chowdary](https://www.linkedin.com/in/kodalihemanthchowdary/) |
+| 📧 Email | [kodalihemanthchowdary4@gmail.com](mailto:kodalihemanthchowdary4@gmail.com) |
+| 🐙 GitHub | [@18mis7023](https://github.com/18mis7023) |
 
-<h3>Where to find me</h3>
-<p>
-     <a href="https://github.com/18mis7023" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<!--      <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-     <a href="https://www.linkedin.com/in/hemanth-chowdary-b97b6616b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-     <a href="mailto:hemanth.18mis7023@vitap.ac.in" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-     <a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-     
-</p>
+</div>
 
-<p align="center">
-     <img alt="Stars" src="https://img.shields.io/github/stars/18mis7023/18mis7023?style=flat-square&labelColor=343b41"/> 
-     <img alt="Forks" src="https://img.shields.io/github/forks/18mis7023/18mis7023?style=flat-square&labelColor=343b41"/>
-</p>
-<!---
-18mis7023/18mis7023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
 
---->
+---
 
+## 🐍 Contribution Snake
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18mis7023/18mis7023/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/18mis7023/18mis7023/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/18mis7023/18mis7023/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
+  <a href="https://wakatime.com/@18mis7023">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=18mis7023&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 Random Dev Quote
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+**If you like my work, consider giving it a ⭐!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
